@@ -1,0 +1,8 @@
+site_name: BLHX-wiki
+pages:
+- [index.md, 主页]
+- [warship.md, 舰船]
+- [equip.md, 装备]
+- [cat.md, 猫]
+
+theme: readthedocs
